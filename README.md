@@ -13,7 +13,7 @@ Olá, eu sou Luiz, Sou um estudante de programacao buscando me aperfeicoar na ar
 
 Aqui estão algumas das linguagens de programação e ferramentas que estou familiarizado:
 
-- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+- [![Javascript] https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black]
 - https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 - https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 - https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
