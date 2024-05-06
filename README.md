@@ -23,10 +23,9 @@ Aqui estão algumas das linguagens de programação e ferramentas que estou fami
 
 
 ## Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsLuizhenrique&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsLuizhenrique&show_icons=true&theme=radical)
 
 ## Projetos em Destaque
-
 Aqui estão alguns dos projetos que estou orgulhoso de ter trabalhado ou que considero interessantes:
 
 
