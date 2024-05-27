@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-Olá, eu sou Luiz, Sou um estudante de programacao buscando me aperfeicoar na area. Estou apaixonado por desenvolvimento FullStack e estou sempre buscando aprender e crescer na área de Back-End. 
+Olá, sou Luiz, um estudante dedicado de programação, empenhado em aprimorar minhas habilidades na área. Meu foco principal está no desenvolvimento Full Stack, com uma forte inclinação para o aperfeiçoamento no Back-End. Estou profundamente comprometido em buscar conhecimento contínuo e em constante crescimento dentro do setor de tecnologia.
 ## Sobre Mim
 
 - 🌱 Atualmente, estou aprendendo   -  Git | ES6 | HTML | CSS | React | Node.js | Docker | SQL | TypeScript | API REST
